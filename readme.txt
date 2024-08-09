@@ -1,3 +1,3 @@
 #superuser
-login: sashajs
-password: sasha12345
+login: ****
+password: ****
