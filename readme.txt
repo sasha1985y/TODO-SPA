@@ -1,3 +1,1 @@
-#superuser
-login: ****
-password: ****
+
